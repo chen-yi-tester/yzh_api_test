@@ -2,7 +2,7 @@ from api_tools.request_method import request_methods
 
 req = request_methods()
 class api_lists:
-	test_host = 'http://lxlgyzh.f3322.net:2222'
+	test_host = 'http://'
 	login_url = test_host+'/user/Auth/userLogin'
 	user_account = '18502338722'
 	password = 'BE56E057F20F883EE10ADC3949BA59AB'
